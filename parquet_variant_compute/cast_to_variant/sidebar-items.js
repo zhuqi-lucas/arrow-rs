@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["cast_to_variant","convert_timestamp"],"macro":["decimal_to_variant_decimal","generic_conversion","non_generic_conversion","primitive_conversion"]};
